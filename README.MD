@@ -49,13 +49,13 @@ También se puede utilizar el servidor integrado de PHP para realizar pruebas lo
 
 ## Configuración
 
-La conexión se encuentra en `config/conexion.php`. La configuración predeterminada es:
+La conexión se encuentra en `config/conexion.ejemplo.php`. La configuración predeterminada es:
 
 ```php
 $servidor = 'localhost';
 $baseDatos = 'inventario';
-$usuario = 'root';
-$contrasena = '';
+$usuario = 'TU_USUARIO';
+$contrasena = 'TU_CONTRASENA';
 ```
 
 ## Ejecución
